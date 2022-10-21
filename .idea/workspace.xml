@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb27a3b5-d1db-478b-8502-91fdad56292a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/StudentProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/inheritance/InheritanceProperties.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/RecordStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/RecordStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Student1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +39,26 @@
     "last_opened_file_path": "C:/Users/User/Desktop/RFPSample210"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Rectangle">
+  <component name="RunManager" selected="Application.InheritanceProperties">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.classandobject.Dog" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bridgelabz.oopsconcept.classandobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.InheritanceProperties" />
+      <module name="OopsPracticeSelf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceProperties" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.StudentProfile" />
         <item itemvalue="Application.Dog" />
