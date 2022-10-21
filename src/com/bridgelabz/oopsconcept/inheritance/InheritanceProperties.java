@@ -1,6 +1,12 @@
 package com.bridgelabz.oopsconcept.inheritance;
 
 public class InheritanceProperties {
+
+    //1. inherit the properties from parent class to child class is called inheritance
+    //2. we achieve inheritance using extends keyword
+    //3. Inheritance --> IS-A Relationship
+    //4. example--> monkey IS-A Animal, Car IS-A vehicle
+
     public static void main(String[] args) {
         BaseClass parent = new BaseClass();
         System.out.println(parent.x);
