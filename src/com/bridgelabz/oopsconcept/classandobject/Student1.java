@@ -4,6 +4,17 @@ public class Student1 {//create a class
     int rollNumber;
     String name;
     float marks;
+    Student1(){
+        this.marks=90.0f;//this replacing with reference variable(student1)
+        this.name = "usha";
+        this.rollNumber= 6780809;
+    }
+    void changeName(String nameName){
+        name = nameName;
+    }
+    void greeting(){
+        System.out.println("Hello! my name is :" + name);
+    }
 }
 //a class is a named group of properties and function
 //combine single entity
