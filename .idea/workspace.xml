@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb27a3b5-d1db-478b-8502-91fdad56292a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/Person3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/classandobject/personAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/encapsulation/Person1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/encapsulation/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/inheritance/Inheritance1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +39,9 @@
     "last_opened_file_path": "C:/Users/User/Desktop/210_RPF/OopsPracticeSelf"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Person2">
-    <configuration name="InheritanceTypes (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.InheritanceTypes" />
+  <component name="RunManager" selected="Application.Inheritance1">
+    <configuration name="Inheritance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.Inheritance1" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +53,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InheritanceTypes (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.InheritanceTypes" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
@@ -112,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance1" />
         <item itemvalue="Application.Person2" />
         <item itemvalue="Application.Person3" />
         <item itemvalue="Application.Sample2" />
         <item itemvalue="Application.InheritanceTypes (3)" />
-        <item itemvalue="Application.InheritanceTypes" />
       </list>
     </recent_temporary>
   </component>
