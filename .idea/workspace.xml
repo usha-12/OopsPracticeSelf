@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb27a3b5-d1db-478b-8502-91fdad56292a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/inheritance/Inheritance1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/polymorphisum/Polymorphism1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oopsconcept/polymorphisum/Polymorphism1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,13 @@
     "last_opened_file_path": "C:/Users/User/Desktop/210_RPF/OopsPracticeSelf"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inheritance1">
-    <configuration name="Inheritance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.Inheritance1" />
+  <component name="RunManager" selected="Application.Polymorphism1">
+    <configuration name="Overriding (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.polymorphisum.Overriding" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oopsconcept.inheritance.*" />
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.polymorphisum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceTypes (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.inheritance.InheritanceTypes" />
+    <configuration name="Overriding (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.polymorphisum.Overriding" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oopsconcept.inheritance.*" />
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.polymorphisum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.encapsulation.Person2" />
+    <configuration name="Overriding (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.polymorphisum.Overriding" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oopsconcept.encapsulation.*" />
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.polymorphisum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.classandobject.Person3" />
+    <configuration name="Polymorphism1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.polymorphisum.Polymorphism1" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oopsconcept.classandobject.*" />
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.polymorphisum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.classandobject.Sample2" />
+    <configuration name="Polymorphism1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oopsconcept.polymorphisum.Polymorphism1" />
       <module name="OopsPracticeSelf" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bridgelabz.oopsconcept.classandobject.*" />
+          <option name="PATTERN" value="com.bridgelabz.oopsconcept.polymorphisum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inheritance1" />
-        <item itemvalue="Application.Person2" />
-        <item itemvalue="Application.Person3" />
-        <item itemvalue="Application.Sample2" />
-        <item itemvalue="Application.InheritanceTypes (3)" />
+        <item itemvalue="Application.Polymorphism1" />
+        <item itemvalue="Application.Polymorphism1 (1)" />
+        <item itemvalue="Application.Overriding (3)" />
+        <item itemvalue="Application.Overriding (2)" />
+        <item itemvalue="Application.Overriding (1)" />
       </list>
     </recent_temporary>
   </component>
