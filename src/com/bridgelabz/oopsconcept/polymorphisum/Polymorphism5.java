@@ -3,7 +3,7 @@ package com.bridgelabz.oopsconcept.polymorphisum;
 // while overriding, we can increase the scope of a method, but we can not reduce the scope
 
 //      private - private method can not be inherited and hence it can not be overridden
-//      we can take default, protected and public and we can not take private
+//      we can take default, protected and public, and we can not take private
 
 
 class Parent5{
